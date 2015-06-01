@@ -1,2 +1,2 @@
 # Test
-This is a simple testing repository :)
+This is a simple testing repository ; )
