@@ -1,7 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\falck\\.nuget\\packages"
+      "C:\\Users\\zvido\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\zvido\\.nuget\\packages"
     ]
   }
 }
