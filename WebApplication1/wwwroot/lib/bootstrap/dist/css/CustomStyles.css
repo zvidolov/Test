@@ -32,6 +32,13 @@
     margin: 0px;
 }
 
+.navbar-white {
+    background: rgba(255, 255, 255, 0.97);
+    border-style: solid;
+    border-color: #F4F4F4;
+    border-width: 1px 0;
+}
+
 /* keep full widget on smaller screens */
 @media (max-width: 767px) {
     body {
